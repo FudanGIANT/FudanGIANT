@@ -15,14 +15,14 @@ We are focuing on:
 https://faculty.ustc.edu.cn/shanghonghui/en/index.htm  
 
 ## Current Group Members 
-[Bowen Kan](/mainpage-old/member/bowenkan) (Doctor Student)  
-[Bowen Zhao](/mainpage-old/member/bowenzhao) (Master Student)  
+[Bowen Kan](/mainpage-old/member/bowenkan.md) (Doctor Student)  
+[Bowen Zhao](/mainpage-old/member/bowenzhao.md) (Master Student)  
 Daiyou Xie (Doctor Student)  
 Jiexuan Zhou (Master Student)  
 Leilei Zhu (Doctor Student)  
 Pengyu Zhou (Master Student)  
 Yingxiang Gao (Undergraduate Student)  
-[Zhiqian Xu](/mainpage-old/member/zhiqianxu) (Doctor Student)  
+[Zhiqian Xu](/mainpage-old/member/zhiqianxu.md) (Doctor Student)  
 [Zhuozhao Xia](https://xiazhuozhao.com) (Master Student)  
 
 ## Previous Group Members
